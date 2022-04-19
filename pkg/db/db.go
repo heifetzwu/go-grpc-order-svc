@@ -3,7 +3,7 @@ package db
 import (
 	"log"
 
-	"github.com/hellokvn/go-grpc-order-svc/pkg/models"
+	"github.com/heifetzwu/go-grpc-order-svc/pkg/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
